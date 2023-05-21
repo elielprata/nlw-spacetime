@@ -1,6 +1,6 @@
 # **NLW Spacetime - Ignite**
 
-![Capa, Project presentation image](/Wallpaper - 1920x1080.png)
+![Capa, Project presentation image](/Images.Readme/Wallpaper.png)
 
 ## Sobre
 
