@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: 'var(--font-sans)',
+        sans: 'var(--font-roboto)',
         alt: 'var(--font-bai-jamjuree)',
       },
 
@@ -57,7 +57,7 @@ module.exports = {
 
       backgroundImage: {
         stripes:
-          'linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 12.5%, transparent 12.5%, transparent)',
+          'linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 12.5%, transparent 12.5%, transparent)',
       },
 
       backgroundSize: {
