@@ -26,7 +26,7 @@ export function NewMemoryForm() {
 
       const uploadResponse = await api.post('/upload', uploadFormData)
 
-      coverUrl = uploadResponse.data
+      coverUrl = uploadResponse.data.fileUrl
     }
 
     await api.post(
